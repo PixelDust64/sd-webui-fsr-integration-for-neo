@@ -33,6 +33,12 @@ You can use it inside:
 ![](/images/preview.png)
 ![](/images/upscalers.png)
 
+
+### ✅ Proof of Work
+![Loona Test](images/Loona.png)
+*Upscaled using FidelityFX Super Resolution 4x on Forge Neo*
+
+
 ## 💻 Platform Support
 
 *   **Windows:** Primary support (Native).
