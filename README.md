@@ -1,6 +1,6 @@
 # AMD FidelityFX Super Resolution (FSR) 1.0 - Forge Edition
 
-**This is a patched fork of the original extension, specifically optimized and fixed for [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) (including the Neo branch).**
+**This is a patched fork of the original extension, specifically optimized and fixed for [Stable Diffusion WebUI Forge](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo) (Neo branch).**
 
 This extension integrates [AMD FidelityFX Super Resolution (FSR) 1.0](https://gpuopen.com/fidelityfx-superresolution/) upscaling feature into the WebUI. It offers FSR 1.0 Contrast Adaptive Sharpening upscaling at 2x, 3x, and 4x scales, as well as a universal mode that adapts to the scale set in Hires Fix.
 
@@ -42,6 +42,6 @@ You can use it inside:
 
 *   **Original Creator:** This extension was originally created by [AndreyRGW](https://github.com/AndreyRGW/sd-webui-fsr-integration). All credits for the original implementation go to him.
 *   **Inspiration:** The original idea was inspired by [light-and-ray's Topaz Photo AI integration](https://github.com/light-and-ray/sd-webui-topaz-photo-ai-integration).
-*   **Target Platform:** Optimized for [Stable Diffusion WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge).
+*   **Target Platform:** Optimized for [Stable Diffusion WebUI Forge Neo](https://github.com/Haoming02/sd-webui-forge-classic/tree/neo).
 
 ![](/images/comparation.jpg)
